@@ -1,5 +1,5 @@
 //Лабораторна робота 1. Розробка алгоритмів з лінійною структурою
-//Приклад 5
+//Приклад 25
 #include <iostream>
 #define _USE_MATH_DEFINES
 #include <math.h>
